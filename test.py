@@ -32,6 +32,7 @@ def on_sequence_select(event):
     Function called when a sequence is selected in the dropdown.
     """
     selected_sequence = sequence_var.get()
+    global file_mapping
     file_mapping = get_files(selected_sequence)
     file_var.set('')
     file_dropdown['values'] = list(file_mapping.keys())
@@ -49,9 +50,9 @@ def show_name_as_clean(file):
     """
     return file.split('.')[0]
 
-def on_file_select(event):
+def on_run():
     """
-    Function called when a file is selected in the dropdown.
+    Function called when the Run button is pressed.
     """
     selected_file_clean = file_var.get()
     selected_file_raw = file_mapping[selected_file_clean]
@@ -62,22 +63,30 @@ def on_file_select(event):
 
 # Set up the main application window
 root = tk.Tk()
-root.title("File Selector")
+root.title("Core Explore Kit")
 
+# Sequence Selection
+tk.Label(root, text="Select Date:").grid(row=0, column=0, padx=10, pady=5, sticky='w')
 sequence_var = tk.StringVar()
 sequence_dropdown = ttk.Combobox(root, textvariable=sequence_var)
 sequence_dropdown['values'] = sorted(list(get_sequences()), reverse=True)
+sequence_dropdown.grid(row=0, column=1, padx=10, pady=5, sticky='we')
 sequence_dropdown.bind('<<ComboboxSelected>>', on_sequence_select)
-sequence_dropdown.pack()
 
+# File Selection
+tk.Label(root, text="Select File:").grid(row=1, column=0, padx=10, pady=5, sticky='w')
 file_mapping = get_files()
-
-# Mapping of clean file names to raw file names
-# Create the file dropdown
 file_var = tk.StringVar()
 file_dropdown = ttk.Combobox(root, textvariable=file_var)
-file_dropdown['values'] =sorted(list(get_files()))
-file_dropdown.bind('<<ComboboxSelected>>', on_file_select)
-file_dropdown.pack()
+file_dropdown['values'] = sorted(list(get_files()))
+file_dropdown.grid(row=1, column=1, padx=10, pady=5, sticky='we')
+
+# Run Button
+run_button = ttk.Button(root, text="Run", command=on_run)
+run_button.grid(row=2, column=0, columnspan=2, padx=10, pady=10, sticky='we')
+
+# Configure column 1 to expand with window size
+root.columnconfigure(1, weight=1)
+
 # Start the Tkinter event loop
 root.mainloop()
