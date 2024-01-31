@@ -3,6 +3,8 @@ from tkinter import ttk
 import os
 import pandas as pd
 import re
+import customtkinter
+from customtkinter import CTk, CTkLabel, CTkComboBox, CTkButton
 
 def get_sequences():
     """
@@ -27,15 +29,26 @@ def get_files(sequence=None):
         files = [file for file in files if sequence in file]
     return {show_name_as_clean(f): f for f in files}
 
-def on_sequence_select(event):
-    """
-    Function called when a sequence is selected in the dropdown.
-    """
-    selected_sequence = sequence_var.get()
-    global file_mapping
+def on_sequence_select(event=None):
+    print("Hit")
+    global file_dropdown, file_mapping
+
+    selected_sequence = sequence_dropdown.get()
     file_mapping = get_files(selected_sequence)
-    file_var.set('')
-    file_dropdown['values'] = list(file_mapping.keys())
+    file_values = sorted(list(file_mapping.keys()))
+
+    # Destroy the existing file dropdown if it exists
+    if file_dropdown is not None:
+        file_dropdown.destroy()
+
+    # Create a new file dropdown with the updated file values
+    file_dropdown = CTkComboBox(root, values=file_values)
+    file_dropdown.grid(row=1, column=1, padx=10, pady=5, sticky='we')
+
+    # Set the first value as default (optional)
+    if file_values:
+        file_dropdown.set(file_values[0])
+
 
 def get_data(file):
     """
@@ -54,39 +67,36 @@ def on_run():
     """
     Function called when the Run button is pressed.
     """
-    selected_file_clean = file_var.get()
+    selected_file_clean = file_dropdown.get()  # Use file_dropdown.get() instead of file_var.get()
     selected_file_raw = file_mapping[selected_file_clean]
     data = get_data(selected_file_raw)
     # Copy data to clipboard using Pandas
     data.to_clipboard(index=False, excel=True)
     print(f"Copied data from {selected_file_raw} to clipboard")
 
-# Set up the main application window
-root = tk.Tk()
+
+# Main application window setup
+root = customtkinter.CTk()
 root.title("Core Explore Kit")
 
 # Sequence Selection
-tk.Label(root, text="Select Date:").grid(row=0, column=0, padx=10, pady=5, sticky='w')
-sequence_var = tk.StringVar()
-sequence_dropdown = ttk.Combobox(root, textvariable=sequence_var)
-sequence_dropdown['values'] = sorted(list(get_sequences()), reverse=True)
+CTkLabel(root, text="Select Date:").grid(row=0, column=0, padx=10, pady=5, sticky='w')
+sequence_dropdown = CTkComboBox(root, values=sorted(list(get_sequences()), reverse=True))
 sequence_dropdown.grid(row=0, column=1, padx=10, pady=5, sticky='we')
 sequence_dropdown.bind('<<ComboboxSelected>>', on_sequence_select)
 
 # File Selection
-tk.Label(root, text="Select File:").grid(row=1, column=0, padx=10, pady=5, sticky='w')
+CTkLabel(root, text="Select File:").grid(row=1, column=0, padx=10, pady=5, sticky='w')
+# Initial setup for file_dropdown
 file_mapping = get_files()
-file_var = tk.StringVar()
-file_dropdown = ttk.Combobox(root, textvariable=file_var)
-file_dropdown['values'] = sorted(list(get_files()))
+file_values = sorted(list(file_mapping.keys()))
+file_dropdown = CTkComboBox(root, values=file_values)
 file_dropdown.grid(row=1, column=1, padx=10, pady=5, sticky='we')
 
 # Run Button
-run_button = ttk.Button(root, text="Run", command=on_run)
+run_button = CTkButton(root, text="Run", command=on_run)
 run_button.grid(row=2, column=0, columnspan=2, padx=10, pady=10, sticky='we')
 
-# Configure column 1 to expand with window size
 root.columnconfigure(1, weight=1)
 
-# Start the Tkinter event loop
 root.mainloop()
