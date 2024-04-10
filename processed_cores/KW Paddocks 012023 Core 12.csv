@@ -1,0 +1,37 @@
+Ven,Associate Name,Vendor Name,Closed Sales Volume MTD,Closed Sales Units MTD,Closed Sales Volume YTD,Closed Sales Units YTD,File Source,File Run,Processed From Path
+M,"Aloi, Chris",Supreme Lending,350000.0,1,350000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Berg, Summer",Fairway Independent Mortgage C,304490.0,1,304490.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Eterno, Maggie",Supreme Lending,299000.0,1,299000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Fitts, Merry",Shelter Home Mortgage,305000.0,1,305000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Inman, Deborah",Captial City Homes Loans,328750.0,1,328750.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Khuffash, Noor",United Wholesale Mortgage,260000.0,1,260000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Kostura, Linda",Wells Fargo Bank,849900.0,1,849900.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Mooney, Rachel",Homestar Financial Corporation,409265.0,1,409265.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Phillips, Mark",Ignite Holdings,201000.0,1,201000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Popescu, Florin D.",Primelending A Plainscapital,359000.0,2,359000.0,2,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Rosen, Kelly",Advanta Ira Administration,130000.0,1,130000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Rosen, Kelly",Fairway Independent Mortgage C,413000.0,1,413000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Tarver, Monique",Dhi Mortgage Company,436490.0,1,436490.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Wigfall, Andre",Credit Union Of Georgia,525000.0,1,525000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+M,"Wright, Seth",Fairway Independent Mortage,327000.0,1,327000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Aloi, Chris",Kham Law,350000.0,1,350000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Berg, Summer",Okelley Sorohan Attorneys,304490.0,1,304490.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Brown, Tracy",Okelley Sorohan Attorneys,459900.0,1,459900.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Eterno, Maggie",John J Maurer,42000.0,1,42000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Eterno, Maggie",Lueder Larkin Hunter,559000.0,2,559000.0,2,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Fitts, Merry",Okelley Sorohan Attorneys,305000.0,1,305000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Foster, John",Campbell Brannon,347500.0,1,347500.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Inman, Deborah",Goggans Stutzman Hudson Wil,328750.0,1,328750.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Khuffash, Noor",Okelley Sorohan Attorneys,260000.0,1,260000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Kostura, Linda",Nelson Galbreath,849900.0,1,849900.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Mahota, Jennifer",Russell C Petersen,389900.0,1,389900.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Milstead, Brittany",Parkway Law Group,143000.0,1,143000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Mooney, Rachel",Mcmichael Gray,409265.0,1,409265.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Patterson, Jacqueline",Edwin M Ceccarelli,258500.0,1,258500.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Phillips, Mark",Goggans Stutzman Hudson Wil,771000.0,4,771000.0,4,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Popescu, Florin D.",Boling Rice,359000.0,2,359000.0,2,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Rosen, Kelly",Thomas Brown,413000.0,1,413000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Rosen, Kelly",Weissman,652000.0,2,652000.0,2,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Tarver, Monique",Okelley Sorohan Attorneys,436490.0,1,436490.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Wigfall, Andre",Lueder Larkin Hunter,525000.0,1,525000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf
+T,"Wright, Seth",The Hawes Law Firm,327000.0,1,327000.0,1,MC #: 344  Keller Williams Realty Atlanta Partners,2023-02-02,KW Paddocks 012023 Core 12.pdf

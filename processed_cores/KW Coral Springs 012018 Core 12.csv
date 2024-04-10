@@ -1,0 +1,55 @@
+Ven,Associate Name,Vendor Name,Closed Sales Volume MTD,Closed Sales Units MTD,Closed Sales Volume YTD,Closed Sales Units YTD,File Source,File Run,Processed From Path
+M,"Arce, Johanna",Hancock Whitney Bank,67000.0,1,67000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Avivi, Yael",Bank Of America,127500.0,1,127500.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"BENASSI, AUDREY",Cross Country Mortgage,188000.0,1,188000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Booker, Jeff L.",Recovco Mortgage Mgmt,129825.0,0,129825.0,0,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Carter, Tara",Recovco Mortgage Mgmt,302925.0,1,302925.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Catinella, Rosaria",Ibieria Bank,270000.0,1,270000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"DiMartino, John",Supreme Lending,228000.0,1,228000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Drucker, Warren",Loandepotcom,832000.0,2,832000.0,2,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Edwards, Marcus",Bank Of America,127500.0,1,127500.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Edwards, Marcus",Hancock Whitney Bank,67000.0,1,67000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Embres, Joelle",Guaranteed Rate,164500.0,1,164500.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Fischer, Mary Joy",Chicago Financial Services In,336000.0,1,336000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Johnson, Karen",Np Dba Us Mortgage Of Fl,610000.0,1,610000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Madro, Agata",Jp Morgan Chase,205000.0,1,205000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Mish, Kimberly",Paramount Residential Mortgage,95000.0,1,95000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Motulsky-Rozenberg, Elsa",Biscayne Bank,846254.0,1,846254.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Mucci, Michael",Np Dba Us Mortgage Of Fl,500000.0,1,500000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Mucci, Michael",Quicken Loans,189000.0,1,189000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Pabon, Melissa J",Gold Star Mortgage Financial G,460000.0,1,460000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+M,"Summer, Dori",Chicago Financial Services In,336000.0,1,336000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Arce, Johanna",Title Solutions,67000.0,1,67000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Atlas, Elana",First American Title Insurance,45000.0,1,45000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Avivi, Yael",Title Solutions,440000.0,1,440000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"BENASSI, AUDREY",Performance Title,172500.0,1,172500.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"BENASSI, AUDREY",Tropical Land Title,188000.0,1,188000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Booker, Jeff L.",Michael Trinkler Pa,129825.0,0,129825.0,0,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Carter, Tara",Michael Trinkler Pa,302925.0,1,302925.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Catinella, Rosaria",Trident Title,270000.0,1,270000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"DiMartino, John",First American Title Insurance,228000.0,1,228000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"DiMartino, John",Fortuna Title Ins,158000.0,1,158000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Diaz, David",Bob J Howell Pa,46000.0,1,46000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Drucker, Warren",Team Title Usa,472000.0,1,472000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Drucker, Warren",Trident Title,360000.0,1,360000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Edelman, Joshua",Supreme Lending,104000.0,0,104000.0,0,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Edelman, Sharon",Supreme Lending,156000.0,1,156000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Edwards, Marcus",Title Solutions,507000.0,2,507000.0,2,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Elbaz, Marc",First American Title Insurance,80000.0,1,80000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Embres, Joelle",Donald R Walters Pa,164500.0,1,164500.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Fischer, Mary Joy",Sunbelt Title,336000.0,1,336000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Johnson, Karen",North American Title,610000.0,1,610000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Johnson, Kimberly L",Trident Title,29000.0,1,29000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Josar-Vicent, Catherine",First American Title Insurance,45000.0,1,45000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Madro, Agata",Supreme Lending,205000.0,1,205000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Marquart, Jenifer",Signature Title Group,112000.0,1,112000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Miller, Nicole",Independence Title,64000.0,1,64000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Mish, Kimberly",Delray Title Abstract,95000.0,1,95000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Motulsky-Rozenberg, Elsa",North American Title,846254.0,1,846254.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Mucci, Michael",Bailey Woodruff Title,64500.0,1,64500.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Mucci, Michael",Esquire Title Company,500000.0,1,500000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Mucci, Michael",First American Title Insurance,189000.0,1,189000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Pabon, Melissa J",Alliant Title Escrow,59000.0,1,59000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Pabon, Melissa J",First American Title Insurance,615000.0,2,615000.0,2,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Perez, Ramphis",Trident Title,25000.0,1,25000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf
+T,"Summer, Dori",Sunbelt Title,336000.0,1,336000.0,1,MC #: 965  Keller Williams Realty Coral Springs,2018-02-05,KW Coral Springs 012018 Core 12.pdf

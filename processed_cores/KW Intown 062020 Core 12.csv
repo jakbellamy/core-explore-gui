@@ -1,0 +1,806 @@
+Ven,Associate Name,Vendor Name,Closed Sales Volume MTD,Closed Sales Units MTD,Closed Sales Volume YTD,Closed Sales Units YTD,File Source,File Run,Processed From Path
+M,"Acuff, Jane",Ameris Bank,0.0,0.0,517747.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Acuff, Jane",Fairway Independent Mortgage,0.0,0.0,269500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Acuff, Jane",Northpointe Bank,0.0,0.0,615000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Alexander, John Ryan",Jpmorgan Chase Bank,0.0,0.0,342000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Alexander, John Ryan",Northpointe Bank,0.0,0.0,879800.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Alexander, John Ryan",United Wholesale Mortgage,0.0,0.0,77600.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Alexander, Shedonna",Finance Of America Mortgage,0.0,0.0,515000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Allen, Russell",Associated Credit Union,0.0,0.0,163855.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Allen, Russell",Firstbank,0.0,0.0,131250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Allen, Russell",Keller Mortgage Dba Keller,0.0,0.0,84500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Mary Ann",Ameris Bank,0.0,0.0,239000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Mary Ann",Cbc National Bank,0.0,0.0,261000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Mary Ann",Fairway Independent Mortgage,0.0,0.0,142500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Mary Ann",Fifth Third Mortgage Company,0.0,0.0,432500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Mary Ann",Northpointe Bank,0.0,0.0,399500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Mary Ann",Security Bank Of North Metro,0.0,0.0,102000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Tom",Ameris Bank,0.0,0.0,239000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Tom",Cbc National Bank,0.0,0.0,261000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Tom",Fairway Independent Mortgage,0.0,0.0,142500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Tom",Fifth Third Mortgage Company,0.0,0.0,432500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Tom",Northpointe Bank,0.0,0.0,399500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Tom",Security Bank Of North Metro,0.0,0.0,102000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Anderson, Tracy",Bank South,605000.0,1.0,1630000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Arkins, Joan",Mortgage Assurance,725000.0,1.0,1263000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bagley, William Cole",Shelter Mortgage Conmpany,129000.0,1.0,258000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bagnal, Hannah",Southeast Mortgage Of Georgia,0.0,0.0,275000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bailey, Priscilla",Fifth Third Mortgage Company,0.0,0.0,355000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bailey, Sherry",Aassent Mortgage Corporation,0.0,0.0,296000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bailey, Sherry",Jpmorgan Chase Bank,0.0,0.0,265000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bailey, Sherry",Navy Federal Credit Union,0.0,0.0,265000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bair, Charlotte",Fbc Mortgage,0.0,0.0,220000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bair, Charlotte",Shelter Lending Services,0.0,0.0,315000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bair, Charlotte",Supreme Lending,0.0,0.0,170000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bair, Charlotte",Synovus Mortgage Corp,297000.0,1.0,297000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bair, Charlotte",United Wholesale Mortgage,0.0,0.0,137500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Barrett-Williams, Shannon",Ameris Bank,267327.0,1.0,1741327.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Barrett-Williams, Shannon",Bank Of America,0.0,0.0,263450.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Barrett-Williams, Shannon",Bank South,0.0,0.0,359000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Barrett-Williams, Shannon",Home Point Financial,0.0,0.0,550716.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Barrett-Williams, Shannon",Shelter Mortgage Conmpany,0.0,0.0,220000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Barrett-Williams, Shannon",Success Mortgage Partners,154000.0,1.0,403900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bedgood, William",Ameris Bank,112250.0,1.0,932500.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bedgood, William",Homebridge Financial Services,0.0,0.0,175000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bedgood, William",Shelter Lending Services,137500.0,1.0,137500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bedgood, William",Silverton Mortgage Specialists,0.0,0.0,147500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bedgood, William",Wells Fargo Bank,267770.0,1.0,267770.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Benjamin, Courtney",Ameris Bank,0.0,0.0,528000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Benjamin, Courtney",Dhi Mortgage Company,0.0,0.0,144900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Black, Rhys",Better Mortgage Corporation,0.0,0.0,810000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Black, Rhys",Quicken Loans,0.0,0.0,215000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Black, Rhys",Supreme Lending,0.0,0.0,197000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bray, Dawn",Inspire Home Loans,0.0,0.0,175995.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Bray, Dawn",Shelter Lending Services,0.0,0.0,411000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",Eloan,0.0,0.0,374625.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",Fbc Mortgage,0.0,0.0,220000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",Quicken Loans,0.0,0.0,295750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",Sharpe Mortgage Lending Servic,378000.0,1.0,378000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",Shelter Lending Services,0.0,0.0,315000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",Supreme Lending,0.0,0.0,170000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",Synovus Mortgage Corp,297000.0,1.0,297000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Brockway, Franklin",United Wholesale Mortgage,0.0,0.0,287250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Campbell, David",Bates Mortgage Group,265000.0,1.0,265000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Campbell, David",On Q Financial Isaoa,0.0,0.0,560000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Cass, Laurie",Atlantic Home Loans,0.0,0.0,549000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Cass, Laurie",Northpointe Bank,0.0,0.0,1177500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Castleberry, Sarah",Ameris Bank,0.0,0.0,819900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Castleberry, Sarah",United Wholesale Mortgage,0.0,0.0,389000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Charles, Ayannah",Homestar Financial Corporation,0.0,0.0,135000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Childs, Cathryn",Ameris Bank,1044580.0,4.0,3685980.0,7,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Childs, Cathryn",Wells Fargo Bank,0.0,0.0,1075000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Cola, Jamila",Caliber Home Loans,0.0,0.0,840000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Cola, Jamila",Reverside Mortgage Corp,0.0,0.0,507000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Coley, W. Forrest",Georgia United Credit Union,0.0,0.0,389900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Collier, Carlson",Shelter Mortgage Conmpany,0.0,0.0,110000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Corbo, Thomas",Truist,770000.0,1.0,2050000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Cox, Xiorelis",Ameris Bank,212000.0,1.0,212000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Cox, Xiorelis",Cmc Dba Market Rate Mortg,0.0,0.0,228000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Cox, Xiorelis",Usaa Federal Savings Bank,0.0,0.0,304500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Craig, Karyn",Quicken Loans,82075.0,0.0,172475.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Craig, Karyn",Supreme Lending,0.0,0.0,587500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"DARCH, LUKE",Ameris Bank,174600.0,0.0,578308.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"DARCH, LUKE",Movement Mortgage,0.0,0.0,187500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"DARCH, LUKE",Northpointe Bank,94400.0,0.0,94400.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"DARCH, LUKE",Regions Bank Dba Regions Mort,0.0,0.0,94675.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"DARCH, LUKE",Southeast Mortgage Of Georgia,0.0,0.0,350000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Decarmo, Ajanaa",Ameris Bank,0.0,0.0,452500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Decarmo, Ajanaa",Broker Solutions Dba New,0.0,0.0,219500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Deller, Nancy",Supreme Lending,275000.0,1.0,440500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dellinger, Casey",Affinity Credit Union,212400.0,1.0,212400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dellinger, Casey",Ameris Bank,241000.0,1.0,241000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dellinger, Casey",Loandepotcom,0.0,0.0,429250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dellinger, Casey",Pnc Mortgage,0.0,0.0,285000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dellinger, Casey",Us Mortgage Corporation,0.0,0.0,524900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"DiCarlo, Kristen",Supreme Lending,0.0,0.0,102950.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"DiCarlo, Kristen",Truist,0.0,0.0,333750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dowell, Ben",Ameris Bank,0.0,0.0,194750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dowell, Ben",Fairway Independent Mortgage,0.0,0.0,269500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Dowell, Ben",Northpointe Bank,0.0,0.0,210000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Durden, Gary",Keller Mortgage Dba Keller,535000.0,1.0,934000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Durden, Gary",Shelter Lending Services,215500.0,1.0,215500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"ERVIN, ERIKA",Ameris Bank,0.0,0.0,675999.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"ERVIN, ERIKA",Jpmorgan Chase Bank,0.0,0.0,189000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"ERVIN, ERIKA",Northpointe Bank,0.0,0.0,220500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"ERVIN, ERIKA",Taylor Morrison Home Funding,458985.0,1.0,458985.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"ERVIN, ERIKA",Wells Fargo Bank,0.0,0.0,381999.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Elder, Lawrence",Bank Of America,0.0,0.0,170000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Elder, Lawrence",Capital Lending,195000.0,1.0,195000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Ernst, Ashton",Ameris Bank,300000.0,1.0,1195000.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Ernst, Ashton",Navy Federal Credit Union,635000.0,1.0,635000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Ernst, Ashton",Synovus Mortgage Corp,0.0,0.0,344250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Everts, Nick",Ameris Bank,309000.0,1.0,1628500.0,6,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Everts, Nick",Bank South,0.0,0.0,612000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Fandrich, Trevor",Ameris Bank,224900.0,1.0,224900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Fandrich, Trevor",Usaa Federal Savings Bank,225000.0,1.0,225000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Fedder, Jeffrey",First Community Mortgage,570000.0,1.0,570000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Flaherty, Kayla",Eloan,0.0,0.0,624375.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Forte, Anthony",Usaa Federal Savings Bank,319000.0,1.0,541755.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Fountain, Denitria",Cmg Mortgage Dba Cmg Fina,245000.0,1.0,245000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Fountain, Denitria",Homebridge Financial Services,0.0,0.0,412226.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Franklin, John",Bank South,0.0,0.0,235092.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Franklin, John",First Heritage Mortgage,444785.0,1.0,444785.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Franklin, John",Supreme Lending,0.0,0.0,209000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Gaston, Alex",Homestar Financial Corporation,0.0,0.0,159900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Gonzalez, Rafael",Fairway Independent Mortgage,0.0,0.0,516870.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Gonzalez, Rafael",Quicken Loans,0.0,0.0,580000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Ameris Bank,0.0,0.0,36000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Certainty Home Loans,132000.0,0.0,132000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Finance Of America Mortgage,0.0,0.0,52000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",First Heritage Mortgage,0.0,0.0,33990.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Inspire Home Loans,0.0,0.0,175995.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Loandepotcom,0.0,0.0,31000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Nbkc Bank,0.0,0.0,48490.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Regions Bank Dba Regions Mort,0.0,0.0,47538.2,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Shelter Lending Services,0.0,0.0,309500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Supreme Lending,0.0,0.0,602350.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Graham, Ryan",Truist,0.0,0.0,333750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Gregg, Dawn",Supreme Lending,0.0,0.0,94500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Griffin, Matthew",Supreme Lending,0.0,0.0,142500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Griffin, Matthew",Truist,0.0,0.0,282500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hall, Robert",Broker Solutions Dba New,151000.0,1.0,151000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hall, Robert",Certainty Home Loans,0.0,0.0,622400.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hall, Robert",Dhi Mortgage Company,0.0,0.0,435907.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hall, Robert",Homebridge Financial Services,364900.0,1.0,364900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Ameris Bank,0.0,0.0,662350.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Centerstate Bank,225000.0,1.0,225000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Fbc Mortgage,0.0,0.0,255000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Potomac Mortgage Group Dba Mvb,0.0,0.0,485000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Prosperity Home Mortgage,0.0,0.0,181400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Pulte Mortgage,0.0,0.0,329285.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Regions Bank Dba Regions Mort,0.0,0.0,280000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hanley, Emily",Southcrest Bank,0.0,0.0,322500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hayes, Candice",Ameris Bank,0.0,0.0,66000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Hayes, Candice",Us Mortgage Corporation,0.0,0.0,124000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Heath - Londrillo, Emily",Fairway Independent Mortgage,0.0,0.0,708000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Heath - Londrillo, Emily",Jpmorgan Chase Bank,0.0,0.0,271500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Heath - Londrillo, Emily",North American Savings Bank,0.0,0.0,111000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Heath - Londrillo, Emily",Shelter Mortgage Conmpany,0.0,0.0,375450.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Heath - Londrillo, Emily",Truist,389000.0,1.0,389000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Heath - Londrillo, Emily",Wells Fargo Bank,0.0,0.0,245250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Henderson, Valerie",Supreme Lending,0.0,0.0,215000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Holden, Tracy",Keller Mortgage Dba Keller,0.0,0.0,153000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Huynh, Cindy",Quicken Loans,0.0,0.0,375000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Isabell, Ashley",Fairway Independent Mortgage,0.0,0.0,465000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Johnson, Katherine",Ameris Bank,295000.0,1.0,724900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Johnson, Katherine",Centerstate Bank,0.0,0.0,440000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Johnson, Kristen",Ameris Bank,574900.0,2.0,1458800.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Johnson, Kristen",Synovus Mortgage Corp,0.0,0.0,292500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Johnson, Kristen",Taylor Morrison Home Funding,0.0,0.0,484855.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Brendan",American Neighborhood Mortgage,0.0,0.0,235000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Brendan",Fairway Independent Mortgage,0.0,0.0,487000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Brendan",Flagstar Bank Fsb,0.0,0.0,334000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Kellee",Fairway Independent Mortgage,150000.0,1.0,150000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Kellee",Finance Of America Mortgage,0.0,0.0,78000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Kellee",Paramount Residential Mortgage,261500.0,1.0,261500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Kellee",Shelter Mortgage Conmpany,268500.0,1.0,268500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Jones, Kellee",Supreme Lending,0.0,0.0,951000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Joseph, Carmel",Broker Solutions Dba New,0.0,0.0,345000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Joseph, Carmel",Dhi Mortgage Company,166695.0,1.0,166695.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Joseph, Carmel",Homestar Financial Corporation,269550.0,1.0,269550.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Joseph, Carmel",Quicken Loans,0.0,0.0,405000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Joseph, Carmel",Supreme Lending,0.0,0.0,138000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Joy, Catherine",Wells Fargo Bank,0.0,0.0,850000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"KINSEY, NICHOLAS",Synovus Mortgage Corp,0.0,0.0,237000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kasm, Iman",Homebridge Financial Services,230000.0,1.0,230000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kasm, Iman",Loandepotcom,0.0,0.0,1065000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kasm, Iman",Tristone Financial,219500.0,1.0,219500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kelliher, Curtis",Truist,0.0,0.0,699900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Ameris Bank,261900.0,1.0,1008030.5,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Flagstar Bank Fsb,0.0,0.0,320000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Jpmorgan Chase Bank,0.0,0.0,513000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Movement Mortgage,0.0,0.0,187500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Northpointe Bank,141600.0,1.0,1533800.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Quicken Loans,152425.0,1.0,288025.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Regions Bank Dba Regions Mort,0.0,0.0,175825.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Southeast Mortgage Of Georgia,0.0,0.0,350000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Supreme Lending,0.0,0.0,932800.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",Truist,0.0,0.0,1030000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kilinski, Anna Cathrine",United Wholesale Mortgage,0.0,0.0,278400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"King, Kelly",Cbc National Bank,113000.0,1.0,412000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"King, Kelly",Fairway Independent Mortgage,0.0,0.0,339000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"King, Kelly",Prosperity Home Mortgage,285000.0,1.0,285000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kodesh, Gregory",Ameris Bank,598900.0,1.0,1073800.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kodesh, Gregory",Shelter Mortgage Conmpany,0.0,0.0,239999.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Kodesh, Gregory",Wells Fargo Bank,0.0,0.0,839000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Landis, Justin",First Heritage Mortgage,0.0,0.0,400000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Landis, Justin",Supreme Lending,208250.0,1.0,208250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Leberte, Angela",Ameris Bank,299900.0,1.0,798800.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Leberte, Angela",Paramount Residential Mortgage,0.0,0.0,287400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Leberte, Angela",Servisfirst Bank,0.0,0.0,700000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Loth, Christopher",Capital Lending,0.0,0.0,235714.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Lovell, Dawn",Supreme Lending,0.0,0.0,112500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Magnuson, Daniel",Jpmorgan Chase Bank,0.0,0.0,949500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Magnuson, Daniel",Silverton Mortgage Specialists,0.0,0.0,340000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Marshall, Lauren",Ameris Bank,0.0,0.0,490900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Martin, Harrison",Truist,0.0,0.0,380000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McClendon, Terrica",Bank South,0.0,0.0,232177.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McClendon, Terrica",Mortgage Research Center,329999.0,1.0,329999.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McClendon, Terrica",Neighborhood Mortgage,0.0,0.0,562000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McKeegan, Andrew",Ameris Bank,0.0,0.0,320300.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McKeegan, Andrew",Shelter Lending Services,0.0,0.0,336250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McKeegan, Andrew",Supreme Lending,0.0,0.0,1255500.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McWilliams, Jillian",Fairway Independent Mortgage,137500.0,1.0,137500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McWilliams, Jillian",Pentagon Financial Services,200250.0,1.0,200250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"McWilliams, Jillian",Success Mortgage Partners,131500.0,1.0,440000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Mendoza, Alexis",Sun Trust Mortgage,450000.0,1.0,450000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moen, Aaron",Cdc Federal Credit Union A,0.0,0.0,191000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moen, Aaron",Mortgage Assurance,187000.0,1.0,187000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moen, Aaron",Northpointe Bank,0.0,0.0,772200.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Molineaux, Jon",Fairway Independent Mortgage,0.0,0.0,273500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Molineaux, Jon",Usaa Federal Savings Bank,0.0,0.0,208000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moore, Sarah Ashley Porterfiel",Ameris Bank,0.0,0.0,270568.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moore, Sarah Ashley Porterfiel",Cbc National Bank,340000.0,1.0,340000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moore, Sarah Ashley Porterfiel",Northpointe Bank,0.0,0.0,232500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moore, Sarah Ashley Porterfiel",Supreme Lending,0.0,0.0,230200.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Morgan, Grace",Ameris Bank,923000.0,2.0,5275500.0,11,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Morgan, Grace",Fairway Independent Mortgage,0.0,0.0,1180000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Morgan, Grace",Northpointe Bank,0.0,0.0,580000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Morgan, Grace",Supreme Lending,0.0,0.0,795000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Morris, Otis",Cbc National Bank,0.0,0.0,158000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moten, James",Keller Mortgage Dba Keller,0.0,0.0,167000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Moton, Jerrick",Lenderone Financial,0.0,0.0,230000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"NELSON, CHRISTINA",The Perpetual Financial Group,210000.0,1.0,210000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Nardy, Nicholas",Ameris Bank,0.0,0.0,727250.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Nardy, Nicholas",Eagle Home Mortgage,0.0,0.0,285400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Nardy, Nicholas",First Heritage Mortgage,0.0,0.0,353780.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Nardy, Nicholas",Usaa Federal Savings Bank,0.0,0.0,370000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Norred, Phillip",Movement Mortgage,0.0,0.0,199900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Norris, Robert",Certainty Home Loans,0.0,0.0,740900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Novakovich, Stevan",First Community Mortgage,0.0,0.0,660000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Oliver, Vance",Fairway Independent Mortgage,0.0,0.0,217000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Palus, Norma",Ameris Bank,0.0,0.0,465000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Palus, Norma",Centerstate Bank,0.0,0.0,1031800.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Parker, Sara Lee",Ameris Bank,0.0,0.0,683500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Parker, Sara Lee",Bank South,0.0,0.0,167190.6,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Parker, Sara Lee",Better Mortgage Corporation,0.0,0.0,118500.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Parker, Sara Lee",Centerstate Bank,0.0,0.0,314900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Parker, Sara Lee",Fairway Independent Mortgage,0.0,0.0,95250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Parker, Sara Lee",Success Mortgage Partners,0.0,0.0,588864.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Phillips, Jonathan",Ameris Bank,670000.0,2.0,1573073.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Phillips, Jonathan",Centerstate Bank,0.0,0.0,450000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Phillips, Jonathan",Quicken Loans,0.0,0.0,240000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Phillips, Jonathan",Westminster Mortgage,450000.0,1.0,450000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Prather, John",Truist,100000.0,1.0,100000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rabon, Jason",Better Mortgage Corporation,335000.0,1.0,335000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rabon, Jason",Fairway Independent Mortgage,0.0,0.0,293000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Reker, Tiffanie",Ameris Bank,0.0,0.0,1137000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Reker, Tiffanie",Fairway Independent Mortgage,0.0,0.0,410000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Reker, Tiffanie",Homebridge Financial Services,0.0,0.0,172400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Reker, Tiffanie",Supreme Lending,606750.0,2.0,1625450.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Reker, Tiffanie",Truist,0.0,0.0,909000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Reker, Tiffanie",United Community Bank,0.0,0.0,299990.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Riekhof, Benjamin",Ameris Bank,623000.0,2.0,1532750.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Riekhof, Benjamin",The Mortgage Firm,0.0,0.0,289900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Riekhof, Benjamin",United Wholesale Mortgage,0.0,0.0,235000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rigole, Chris",Ameris Bank,112250.0,1.0,932500.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rigole, Chris",Homebridge Financial Services,0.0,0.0,175000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rigole, Chris",Shelter Lending Services,137500.0,1.0,137500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rigole, Chris",Silverton Mortgage Specialists,0.0,0.0,147500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rigole, Chris",Wells Fargo Bank,707770.0,2.0,707770.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Robbins, Jeremy",Shelter Lending Services,0.0,0.0,147000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Robbins, Jeremy",Us Mortgage Corporation,0.0,0.0,179900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Robbins, Jeremy",Waterstone Mortgage Corp,0.0,0.0,279900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rose, Stephanie",Ameris Bank,0.0,0.0,550000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rose, Stephanie",Fairway Independent Mortgage,0.0,0.0,522500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rose, Stephanie",Truist,0.0,0.0,1032000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Roseberry, R. Todd",Atlantic Home Loans,0.0,0.0,691500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Roseberry, R. Todd",Federal Home Loan Mortgage Cor,0.0,0.0,328500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Ross, Ryan",Ameris Bank,0.0,0.0,1629900.0,6,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Ross, Ryan",Bank Of America,0.0,0.0,480000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",Ameris Bank,0.0,0.0,324000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",Certainty Home Loans,1188000.0,4.0,1188000.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",First Heritage Mortgage,0.0,0.0,305910.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",Loandepotcom,0.0,0.0,279000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",Nbkc Bank,0.0,0.0,436410.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",Regions Bank Dba Regions Mort,0.0,0.0,427843.8,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",Shelter Lending Services,0.0,0.0,319500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Rossi, Marco",Supreme Lending,0.0,0.0,260100.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"SCHANDEL, MARK",Ameris Bank,0.0,0.0,249000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"SCHANDEL, MARK",Bank South,0.0,0.0,159900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"SCHANDEL, MARK",Cbc National Bank,0.0,0.0,455000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"SCHANDEL, MARK",Lenderone Financial,0.0,0.0,399500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Scannell, Paul",Broker Solutions Dba New,0.0,0.0,239900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Scannell, Paul",Sharpe Mortgage Lending Servic,0.0,0.0,205000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Scannell, Paul",Shelter Lending Services,0.0,0.0,494900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Scannell, Paul",Shelter Mortgage Conmpany,0.0,0.0,994000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Scannell, Paul",Truist,0.0,0.0,840000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sconyers, Ryan",Firstbank,0.0,0.0,87500.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sconyers, Ryan",Northpointe Bank,0.0,0.0,123875.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sconyers, Ryan",Truist,0.0,0.0,172500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Searcy, Peter",Fairway Independent Mortgage,0.0,0.0,223500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Searcy, Peter",Inspire Home Loans,0.0,0.0,196772.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Searcy, Peter",Shelter Lending Services,153212.5,0.0,273212.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Searcy, Peter",Shelter Mortgage Conmpany,0.0,0.0,115500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Associated Credit Union,0.0,0.0,163855.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Fairway Independent Mortgage,0.0,0.0,1205000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Fifth Third Mortgage Company,0.0,0.0,355000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Firstbank,0.0,0.0,131250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Inspire Home Loans,0.0,0.0,196772.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Jpmorgan Chase Bank,0.0,0.0,271500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Keller Mortgage Dba Keller,0.0,0.0,84500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",North American Savings Bank,0.0,0.0,111000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Northpointe Bank,0.0,0.0,123875.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Shelter Lending Services,153212.5,0.0,273212.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Shelter Mortgage Conmpany,129000.0,1.0,748950.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Supreme Lending,0.0,0.0,237000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Truist,489000.0,1.0,944000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Usaa Federal Savings Bank,0.0,0.0,208000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Seeby, Justin",Wells Fargo Bank,0.0,0.0,245250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Serulle, Zerina",Fairway Independent Mortgage,137500.0,1.0,137500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Serulle, Zerina",Pentagon Financial Services,200250.0,1.0,200250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Serulle, Zerina",Success Mortgage Partners,131500.0,1.0,440000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Severcool, Vickie",Delta Community Credit Union,0.0,0.0,365000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Severcool, Vickie",Quicken Loans,0.0,0.0,215000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Severcool, Vickie",Shelter Mortgage Conmpany,0.0,0.0,698000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Severcool, Vickie",United Wholesale Mortgage,675000.0,1.0,675000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sherwood, Adrienne",Fairway Independent Mortgage,650000.0,1.0,650000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sherwood, Adrienne",Silverton Mortgage Specialists,0.0,0.0,2301900.0,7,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sherwood, Adrienne",Vanderbilt Mortgage Finance,0.0,0.0,468000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Skeen, Ashley",Flagstar Bank Fsb,0.0,0.0,320000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Smith, Lisa Marie",Ameris Bank,0.0,0.0,375000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Smith, Lisa Marie",Fairway Independent Mortgage,0.0,0.0,997000.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Smith, Lisa Marie",The Perpetual Financial Group,0.0,0.0,860000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Smith, Monica",First Community Mortgage,0.0,0.0,249900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Smith, Monica",Shelter Lending Services,0.0,0.0,287000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Smith, Monica",Shelter Mortgage Conmpany,166900.0,1.0,431800.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Smith, Monica",Us Mortgage Corporation,192000.0,1.0,192000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Spence, Amy",Ameris Bank,370000.0,1.0,817000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Spence, Amy",Usaa Federal Savings Bank,340000.0,1.0,340000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Spencer, Lorelei",Fairway Independent Mortgage,0.0,0.0,210000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sprayberry, Jimmy",First Citizens Bank Trust,0.0,0.0,1790000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Sprayberry, Jimmy",Neighborhood Mortgage,0.0,0.0,337000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"St George, Juli",Ameris Bank,0.0,0.0,66000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"St George, Juli",Northpointe Bank,0.0,0.0,296000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"St George, Juli",United Community Bank,0.0,0.0,192500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"St George, Juli",Us Mortgage Corporation,0.0,0.0,124000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Taylor, Jason",American Financial Resources I,0.0,0.0,249000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Taylor, Jason",Potomac Mortgage Group Dba Mvb,0.0,0.0,179500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Taylor, Jason",Supreme Lending,0.0,0.0,120000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Taylor, Morgan",Fairway Independent Mortgage,320000.0,1.0,1346000.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Tran, Linda",Quicken Loans,0.0,0.0,159250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Tran, Linda",Sharpe Mortgage Lending Servic,252000.0,0.0,252000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Tran, Linda",United Wholesale Mortgage,0.0,0.0,110250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Trimmer, Jeremy",Ameris Bank,0.0,0.0,184500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Trimmer, Jeremy",Bank South,0.0,0.0,390111.4,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Trimmer, Jeremy",Better Mortgage Corporation,0.0,0.0,276500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Trimmer, Jeremy",Fairway Independent Mortgage,0.0,0.0,222250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Trimmer, Jeremy",Success Mortgage Partners,0.0,0.0,499016.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Tyler, Keelin",United Community Bank,0.0,0.0,192500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"WARREN, JEANNETTE",Ameris Bank,344400.0,2.0,787800.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"WARREN, JEANNETTE",Bank South,0.0,0.0,330000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Ward, Frederick",The Federal Savings Bank,0.0,0.0,176500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Weston, Justin",United Wholesale Mortgage,0.0,0.0,108000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Wheeler, Laura",Shelter Lending Services,54075.0,0.0,54075.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Whittemore, Brittany",Fairway Independent Mortgage,0.0,0.0,375000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Wright, Brandy",Northpointe Bank,0.0,0.0,250000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Zimmermann, Kristin",Shelter Lending Services,489900.0,2.0,489900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Zweben, Leslie",Ameris Bank,0.0,0.0,703763.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Zweben, Leslie",Supreme Lending,0.0,0.0,325000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+M,"Zweben, Leslie",Usaa Federal Savings Bank,0.0,0.0,700000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Acuff, Jane",Campbell Brannon,0.0,0.0,405000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Acuff, Jane",Mcmanamy Mccleod Heller,146000.0,0.0,146000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Acuff, Jane",The Hudson Law Firm,690750.0,2.0,1687997.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Alexander, John Ryan",Hodge Temple,0.0,0.0,1221800.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Alexander, John Ryan",Neel Robinson Stafford,0.0,0.0,77600.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Alexander, Shedonna",Ernst Legal Group,0.0,0.0,285900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Alexander, Shedonna",Johns Johns,0.0,0.0,515000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Alexander, Shedonna",S Andrew Shuping Jr,165000.0,1.0,165000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Allen, Russell",Craig Long,0.0,0.0,163855.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Allen, Russell",Hodge Temple,0.0,0.0,566250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Allen, Russell",Mcmanamy Mccleod Heller,0.0,0.0,84500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Allen, Russell",Mcmichael And Gray,80000.0,1.0,80000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Allen, Russell",Okelley Sorohan,87500.0,1.0,87500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Mary Ann",Campbell Brannon,0.0,0.0,921250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Mary Ann",Lueder Larkin Hunter,0.0,0.0,275000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Mary Ann",Mclain Merritt,0.0,0.0,239000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Mary Ann",Mcmanamy Mccleod Heller,0.0,0.0,157500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Mary Ann",Mcmanay Ccleod Heller,0.0,0.0,660500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Mary Ann",Okelly Sorohan,0.0,0.0,102000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Tom",Campbell Brannon,0.0,0.0,921250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Tom",Lueder Larkin Hunter,0.0,0.0,275000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Tom",Mclain Merritt,0.0,0.0,239000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Tom",Mcmanamy Mccleod Heller,0.0,0.0,157500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Tom",Mcmanay Ccleod Heller,0.0,0.0,660500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Tom",Okelly Sorohan,0.0,0.0,102000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Anderson, Tracy",Fryer Law Firm,605000.0,1.0,1630000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Arkins, Joan",Fabian Associates,705000.0,1.0,705000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Arkins, Joan",Mcmanamy Mccleod Heller,725000.0,1.0,725000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Arkins, Joan",Ohlson Medlock,0.0,0.0,538000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bagley, William Cole",Mcmanamy Mccleod Heller,0.0,0.0,129000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bagley, William Cole",Okelly Sorohan Attorneys A,129000.0,1.0,129000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bagnal, Hannah",Parast Law,0.0,0.0,275000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bailey, Priscilla",Mcmanamy Mccleod Heller,0.0,0.0,355000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bailey, Priscilla",Morris Manning Martin,0.0,0.0,222500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bailey, Sherry",Mcmanamy Mccleod Heller,0.0,0.0,476000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bailey, Sherry",Weissman,0.0,0.0,530000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bain, Kameron",Okelly Sorohan Attorneys A,0.0,0.0,227000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bair, Charlotte",Hodge Temple,297000.0,1.0,824500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bair, Charlotte",Mccurdy Candler,0.0,0.0,315000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Barrett-Williams, Shannon",Campbell Brannon,0.0,0.0,359000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Barrett-Williams, Shannon",Feldman Law Offices,0.0,0.0,220000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Barrett-Williams, Shannon",Ganek,1117327.0,2.0,3129143.0,8,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Barrett-Williams, Shannon",Law Office Of Kristen Miller P,0.0,0.0,405000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Barrett-Williams, Shannon",Stout Kaiser Matteson Peake,154000.0,1.0,154000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Barrett-Williams, Shannon",Weissman,0.0,0.0,365000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bedgood, William",Cook And James,0.0,0.0,215000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bedgood, William",Hudson Merino,0.0,0.0,142500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bedgood, William",Mcmanamy Mccleod Heller,112250.0,1.0,112250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bedgood, William",Okelly Sorohan Attorneys A,267770.0,1.0,267770.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bedgood, William",The Hudson Law Firm,137500.0,1.0,1842250.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Benjamin, Courtney",Mcmanamy Mccleod Heller,0.0,0.0,225000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Benjamin, Courtney",Mcmichael Gray,0.0,0.0,407900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Benjamin, Courtney",Okelly Sorohan Attorneys A,0.0,0.0,265000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Black, Rhys",Hodge Temple,0.0,0.0,412000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Black, Rhys",Taylor Sellers Law,0.0,0.0,810000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bray, Dawn",Burgess Title Escrow,0.0,0.0,411000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bray, Dawn",Law Offices Of William A Heat,0.0,0.0,51300.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bray, Dawn",Mcmanamy Mccleod Heller,0.0,0.0,184500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Bray, Dawn",Mcmichael Gray,0.0,0.0,175995.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Brockway, Franklin",Fricks Bohan,0.0,0.0,204750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Brockway, Franklin",Fryer Law Firm,0.0,0.0,295750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Brockway, Franklin",Hodge Temple,807500.0,2.0,1654625.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Brockway, Franklin",Mccurdy Candler,0.0,0.0,315000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Brockway, Franklin",Mcmanamy Mccleod Heller,0.0,0.0,145000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Brown, Rebekah",Mcmanamy Mccleod Heller,155000.0,1.0,155000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Campbell, David",Shafritz Dean,140000.0,1.0,140000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Campbell, David",The Hawes Law Firm,0.0,0.0,560000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Campbell, David",Weissman,265000.0,1.0,265000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cass, Laurie",Fryer Law Firm,0.0,0.0,750000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cass, Laurie",Hodge Temple,0.0,0.0,549000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cass, Laurie",Rahall Associates,0.0,0.0,427500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cass, Laurie",Rahall Assoicates,0.0,0.0,345000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Castleberry, Sarah",Fryer Law Firm,0.0,0.0,819900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Castleberry, Sarah",Ganek,0.0,0.0,389000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Charles, Ayannah",Mcmichael And Gray,0.0,0.0,135000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Childs, Cathryn",Law Office Of Kristen Miller P,809580.0,3.0,3734580.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Childs, Cathryn",Mcmanamy Mccleod Heller,235000.0,1.0,1376500.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Childs, Cathryn",Saadat Law Dba Blue Ink Title,0.0,0.0,484900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cola, Jamila",Mcmanamy Mccleod Heller,0.0,0.0,1347000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Coley, W. Forrest",Bagwell,0.0,0.0,389900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Coley, W. Forrest",Hodge Temple,282900.0,1.0,282900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Collier, Carlson",Fryer Law Firm,0.0,0.0,110000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Collier, Carlson",Mcmanamy Mccleod Heller,0.0,0.0,742500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Corbo, Thomas",Law Office Of Kristen Miller P,0.0,0.0,1280000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Corbo, Thomas",Mclain Merritt,770000.0,1.0,770000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cox, Xiorelis",Ericsson Law,0.0,0.0,304500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cox, Xiorelis",Mcmanamy Mccleod Heller,212000.0,1.0,440000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Cox, Xiorelis",Shafritz Dean,0.0,0.0,560000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Craig, Karyn",Campbell Brannon,0.0,0.0,312500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Craig, Karyn",Hodge Temple,82075.0,0.0,357075.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Craig, Karyn",Meredith Shearer Associates,0.0,0.0,90400.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"DARCH, LUKE",Hodge Temple,174600.0,0.0,1210483.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"DARCH, LUKE",Weissman,94400.0,0.0,94400.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Davis, Elijah",Smith Cavin Corbin,0.0,0.0,358355.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Decarmo, Ajanaa",Mcclain Merritt,0.0,0.0,452500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Decarmo, Ajanaa",Parast Law,0.0,0.0,219500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Deller, Nancy",Mcmanamy Mccleod Heller,275000.0,1.0,440500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Dellinger, Casey",Fryer Law Firm,0.0,0.0,294000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Dellinger, Casey",Law Office Of Kristen Miller P,241000.0,1.0,241000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Dellinger, Casey",Mcmanamy Mccleod Heller,0.0,0.0,714250.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Dellinger, Casey",Okelly Sorohan,0.0,0.0,524900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Dellinger, Casey",Serrano Mckinney Umpierre,212400.0,1.0,212400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"DiCarlo, Kristen",Mcmanamy Mccleod Heller,0.0,0.0,333750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"DiCarlo, Kristen",Slepian Schwartz Landgaard,0.0,0.0,102950.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Dowell, Ben",Mcmanamy Mccleod Heller,219000.0,1.0,219000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Dowell, Ben",The Hudson Law Firm,76750.0,0.0,751000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Durden, Gary",Okelley Sorohan,215500.0,1.0,215500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Durden, Gary",The Hudson Law Firm,535000.0,1.0,1189000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"ERVIN, ERIKA",Mcmanamy Mccleod Heller,0.0,0.0,845499.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"ERVIN, ERIKA",Mcmanay Ccleod Heller,0.0,0.0,240000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"ERVIN, ERIKA",Okelley Sorohan,458985.0,1.0,458985.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"ERVIN, ERIKA",Okelly Sorohan Attorneys A,0.0,0.0,381999.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Elder, Lawrence",Allen Law Group,195000.0,1.0,195000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Elder, Lawrence",Mcmichael Gray,0.0,0.0,170000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ernst, Ashton",Law Office Of Kristen Miller P,300000.0,1.0,1585000.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ernst, Ashton",Mcmanamy Mccleod Heller,635000.0,1.0,635000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ernst, Ashton",Neel Robinson Stafford,520567.75,1.0,520567.75,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ernst, Ashton",The Beltrami Law Firm,0.0,0.0,344250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Everts, Nick",Mcmanamy Mccleod Heller,309000.0,1.0,2490500.0,8,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Everts, Nick",Neel Robinson Stafford,0.0,0.0,100000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Everts, Nick",Raymer Law Group,154000.0,1.0,154000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Fandrich, Trevor",Law Office Of Kristen Miller P,449900.0,2.0,668400.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Fandrich, Trevor",Mcmanamy Mccleod Heller,0.0,0.0,585000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Fedder, Jeffrey",Mcmanamy Mccleod Heller,570000.0,1.0,570000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Flaherty, Kayla",Hodge Temple,132500.0,1.0,756875.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Forte, Anthony",Mcmanamy Mccleod Heller,0.0,0.0,222755.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Forte, Anthony",Walter W Arnall,319000.0,1.0,319000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Fountain, Denitria",Lueder Larkin Hunter,0.0,0.0,412226.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Fountain, Denitria",Mcmanamy Mccleod Heller,245000.0,1.0,451000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Fountain, Denitria",Perrie Assoicates,0.0,0.0,208000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Franklin, John",Mcmanamy Mccleod Heller,0.0,0.0,209000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Franklin, John",Mcmichael Gray,0.0,0.0,235092.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Franklin, John",Stuart Johnston,220000.0,1.0,220000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Franklin, John",Weissman,444785.0,1.0,444785.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Gaston, Alex",Okelly Sorohan,0.0,0.0,159900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Gonzalez, Rafael",Mcmanamy Mccleod Heller,0.0,0.0,1322500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Gonzalez, Rafael",Okelley Sorohan,0.0,0.0,516870.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Burgess Title Escrow,0.0,0.0,274000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",C Robin Wyatt,32000.0,0.0,32000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Edge Kimbell Law,0.0,0.0,112500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Ganek,48750.0,0.0,113150.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",James Walker Associates,0.0,0.0,52000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",John K Gallagher,0.0,0.0,278000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Laird Associates,16250.0,0.0,16250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Law Offices Of William A Heat,0.0,0.0,76950.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Mcmanamy Mccleod Heller,0.0,0.0,487750.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Mcmichael Gray,0.0,0.0,211995.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Neel Robinson Stafford,35000.0,0.0,82538.2,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Slepian Schwartz Landgaard,0.0,0.0,102950.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Thomas Brown,0.0,0.0,48490.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Graham, Ryan",Weissman,0.0,0.0,113990.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Gregg, Dawn",Mcmanamy Mccleod Heller,0.0,0.0,94500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Griffin, Matthew",Mcmanamy Mccleod Heller,0.0,0.0,307500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Griffin, Matthew",Nelson Galbreath,0.0,0.0,142500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hall, Robert",Ganek,0.0,0.0,387400.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hall, Robert",Lueder Larkin Hunter,364900.0,1.0,599900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hall, Robert",Mcmichael Gray,354180.0,2.0,548460.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hall, Robert",Okelly Sorohan,0.0,0.0,490531.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hanley, Emily",Adair Mcmichael Blackburn,0.0,0.0,329285.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hanley, Emily",Law Office Of Kristen Miller P,0.0,0.0,436400.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hanley, Emily",Mcmanamy Mccleod Heller,225000.0,1.0,1694850.0,6,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hanley, Emily",Pacific One Title,240000.0,1.0,240000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hanley, Emily",Thomas Brown,0.0,0.0,280000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hayes, Candice",Morris Manning Martin,203250.0,1.0,203250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hayes, Candice",Okelley Sorohan,0.0,0.0,66000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hayes, Candice",The Hudson Law Firm,198500.0,1.0,322500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Heath - Londrillo, Emily",Cook And James,0.0,0.0,283000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Heath - Londrillo, Emily",Edge Kimbell Law,0.0,0.0,111000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Heath - Londrillo, Emily",Hodge Temple,389000.0,1.0,1706200.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Henderson, Valerie",Hodge Temple,0.0,0.0,215000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Henderson, Valerie",Ohlson Medlock,0.0,0.0,140000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hills, Timothy",Southeast Title Corporation,0.0,0.0,90000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Holden, Tracy",Mcmanamy Mccleod Heller,0.0,0.0,733000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Holloman, Oneida",The Hawes Law Firm,189000.0,1.0,189000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hunt, Wilson",Frank B Pallotta,0.0,0.0,298000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Hunt, Wilson",The Hudson Law Firm,0.0,0.0,820000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Huynh, Cindy",Campbell Brannon,0.0,0.0,375000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Huynh, Cindy",Nguyen Pham Iolta Accoun,120000.0,1.0,312500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Isabell, Ashley",Mcmanamy Mccleod Heller,0.0,0.0,465000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Katherine",Giradot Larose,0.0,0.0,459999.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Katherine",Law Office Of Kristen Miller P,295000.0,1.0,1133900.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Katherine",Weissman,0.0,0.0,429900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Kristen",Kimbrough Swift,0.0,0.0,395000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Kristen",Law Office Of Kristen Miller P,325000.0,1.0,582000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Kristen",Mcmanamy Mccleod Heller,0.0,0.0,231900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Kristen",Mcmichael Gray,0.0,0.0,292500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Kristen",Okelley Sorohan,0.0,0.0,484855.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Johnson, Kristen",Saadat Law Dba Blue Ink Title,249900.0,1.0,249900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Brendan",Mcmanamy Mccleod Heller,0.0,0.0,262000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Brendan",Meredith Shearer Associates,0.0,0.0,225000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Brendan",Okelly Sorohan Attorneys A,0.0,0.0,235000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Brendan",Weissman,0.0,0.0,334000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",Harlperin Lyman,261500.0,1.0,261500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",James Walker Associates,0.0,0.0,78000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",John K Gallagher,0.0,0.0,417000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",Mcmanamy Mccleod Heller,441500.0,2.0,441500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",Mcmichael Gray,150000.0,1.0,150000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",Nelson Galbreath,150000.0,1.0,150000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",Okelley Sorohan,0.0,0.0,235000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",Parkway Law Group,180000.0,1.0,180000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Jones, Kellee",Shafritz Dean,0.0,0.0,299000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Joseph, Carmel",James Walker Associates,130000.0,1.0,673000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Joseph, Carmel",Mcmichael Gray,166695.0,1.0,166695.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Joseph, Carmel",The Beltrami Law Firm,269550.0,1.0,269550.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Joseph, Carmel",The Hawes Law Firm,0.0,0.0,410000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Joseph, Carmel",Thomas Brown,0.0,0.0,345000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Joy, Catherine",Smith Cavin Corbin,0.0,0.0,850000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"KINSEY, NICHOLAS",Mcmichael And Gray,0.0,0.0,237000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kasm, Iman",Mcmanamy Mccleod Heller,0.0,0.0,520000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kasm, Iman",Perrie Assoicates,230000.0,1.0,230000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kasm, Iman",The Hawes Law Firm,219500.0,1.0,764500.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kelliher, Curtis",Mclain Merritt,0.0,0.0,699900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kelliher, Curtis",Thompson Obrien Kemp Nasu,560000.0,1.0,2831725.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Adair Mcmichael Blackburn,0.0,0.0,270568.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Campbell Brannon,0.0,0.0,1342500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Fryer Law Firm,0.0,0.0,237700.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Hodge Temple,414325.0,1.0,4448712.0,10,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Lueder Larkin Hunter,0.0,0.0,162000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Meredith Shearer Associates,0.0,0.0,135600.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Neel Robinson Stafford,0.0,0.0,116400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kilinski, Anna Cathrine",Weissman,141600.0,1.0,141600.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"King, Kelly",Hodge Temple,113000.0,1.0,2393000.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"King, Kelly",Thomas Brown,285000.0,1.0,285000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kodesh, Gregory",Campbell Brannon,0.0,0.0,474900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kodesh, Gregory",Hodge Temple,598900.0,1.0,1677899.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Kolarich, Kris",Henderson Legal,0.0,0.0,85000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Landis, Justin",Mcmanamy Mccleod Heller,111250.0,1.0,111250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Landis, Justin",Perrie Assoicates,97000.0,0.0,97000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Landis, Justin",Weissman,0.0,0.0,400000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Leberte, Angela",Campbell Brannon,0.0,0.0,700000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Leberte, Angela",Law Office Of Kristen Miller P,299900.0,1.0,798800.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Leberte, Angela",Mcmichael Gray,0.0,0.0,287400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Lennon, Gretchen",Morris Manning Martin,0.0,0.0,984900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Loth, Christopher",Mahaffey Pickens Tucker,0.0,0.0,235714.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Lovell, Dawn",Edge Kimbell Law,0.0,0.0,112500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Magnuson, Daniel",Hodge Temple,0.0,0.0,710000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Magnuson, Daniel",Mcmanamy Mccleod Heller,0.0,0.0,949500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Marshall, Lauren",Shafritz Dean,0.0,0.0,161000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Marshall, Lauren",Weissman,0.0,0.0,329900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Martin, Harrison",Mcmanamy Mccleod Heller,0.0,0.0,380000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McClendon, Terrica",Campbell Brannon,0.0,0.0,562000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McClendon, Terrica",Mcmichael Gray,0.0,0.0,232177.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McClendon, Terrica",Parkway Law Group,329999.0,1.0,329999.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McKeegan, Andrew",Adair Mcmichael Blackburn,0.0,0.0,320300.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McKeegan, Andrew",Campbell Brannon,0.0,0.0,607000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McKeegan, Andrew",Mcmanamy Mccleod Heller,0.0,0.0,336250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McKeegan, Andrew",Saadat Law Dba Blue Ink Title,0.0,0.0,648500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McWilliams, Jillian",Fryer Law Firm,0.0,0.0,118500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"McWilliams, Jillian",Mcmanamy Mccleod Heller,469250.0,2.0,777750.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Mendoza, Alexis",Fryer Law Firm,450000.0,1.0,450000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moen, Aaron",Mcmanamy Mccleod Heller,187000.0,1.0,374200.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moen, Aaron",Neel Robinson Stafford,0.0,0.0,585000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moen, Aaron",The Hudson Law Firm,0.0,0.0,191000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Molineaux, Jon",Mcmanamy Mccleod Heller,0.0,0.0,328000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Molineaux, Jon",Sherman Phalen,0.0,0.0,153500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moore, Sarah Ashley Porterfiel",Adair Mcmichael Blackburn,0.0,0.0,270568.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moore, Sarah Ashley Porterfiel",Fryer Law Firm,0.0,0.0,237700.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moore, Sarah Ashley Porterfiel",Hodge Temple,340000.0,1.0,802700.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Morgan, Grace",Campbell Brannon,0.0,0.0,1545000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Morgan, Grace",Fryer Law Firm,0.0,0.0,1395000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Morgan, Grace",Law Office Of Kristen Miller P,923000.0,2.0,5540500.0,11,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Morris, Otis",Mcmanay Ccleod Heller,0.0,0.0,158000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moten, James",Mcmanamy Mccleod Heller,0.0,0.0,167000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Moton, Jerrick",Mcmanamy Mccleod Heller,0.0,0.0,230000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"NELSON, CHRISTINA",Mcmanamy Mccleod Heller,210000.0,1.0,210000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Nardy, Nicholas",Law Office Of Kristen Miller P,0.0,0.0,682250.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Nardy, Nicholas",Mcmichael Gray,0.0,0.0,784400.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Nardy, Nicholas",Weissman,0.0,0.0,353780.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Norred, Phillip",Fryer Law Firm,0.0,0.0,889900.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Norris, Robert",Don F Defoor,0.0,0.0,413000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Norris, Robert",Fryer Law Firm,1157000.0,3.0,1965500.0,7,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Norris, Robert",Mcmanamy Mccleod Heller,0.0,0.0,389900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Novakovich, Stevan",Campbell Brannon,0.0,0.0,385000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Novakovich, Stevan",Mcmanamy Mccleod Heller,0.0,0.0,275000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Oliver, Vance",Okelley Sorohan,0.0,0.0,217000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Palus, Norma",Fryer Law Firm,0.0,0.0,1171900.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Palus, Norma",Mahaffey Pickens Tucker,0.0,0.0,324900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parikh, Neha",Ohlson Medlock,0.0,0.0,140000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",Fryer Law Firm,555000.0,1.0,555000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",Ganek,0.0,0.0,874000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",Hodge Temple,0.0,0.0,410150.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",John K Gallagher,218500.0,1.0,463500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",Mclain Merritt,0.0,0.0,167190.6,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",Perrie Assoicates,84000.0,0.0,84000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",Saadat Law Dba Blue Ink Title,0.0,0.0,319500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",The Hudson Law Firm,0.0,0.0,118500.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Parker, Sara Lee",Thomas Brown,0.0,0.0,78864.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Phillips, Jonathan",Law Office Of Kristen Miller P,470000.0,1.0,1633000.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Phillips, Jonathan",Mcmichael Gray,0.0,0.0,232073.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Phillips, Jonathan",Okelly Sorohan,0.0,0.0,301000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Phillips, Jonathan",Okelly Sorohan Attorneys A,200000.0,1.0,440000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Phillips, Jonathan",Weissman,450000.0,1.0,450000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Prather, John",Harlperin Lyman,0.0,0.0,165000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Prather, John",Hodge Temple,100000.0,1.0,100000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rabon, Jason",Mcmanamy Mccleod Heller,335000.0,1.0,628000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Reker, Tiffanie",Andrew W Hartman Dba Har,0.0,0.0,172400.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Reker, Tiffanie",Campbell Brannon,350000.0,1.0,735000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Reker, Tiffanie",Fryer Law Firm,0.0,0.0,419000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Reker, Tiffanie",Mcclain Merritt,0.0,0.0,411500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Reker, Tiffanie",Mcmanamy Mccleod Heller,111250.0,1.0,2781950.0,8,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Reker, Tiffanie",Okelly Sorohan,0.0,0.0,299990.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Reker, Tiffanie",Perrie Assoicates,145500.0,1.0,145500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Riekhof, Benjamin",Kg Hughes Associates,0.0,0.0,289900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Riekhof, Benjamin",Law Office Of Kenneth R Luther,0.0,0.0,379900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Riekhof, Benjamin",Law Office Of Kristen Miller P,623000.0,2.0,1767750.0,6,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Riekhof, Benjamin",Okelly Sorohan Attorneys A,429775.0,1.0,429775.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rigole, Chris",Cook And James,0.0,0.0,215000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rigole, Chris",Hudson Merino,0.0,0.0,142500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rigole, Chris",Mcmanamy Mccleod Heller,112250.0,1.0,112250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rigole, Chris",Okelly Sorohan Attorneys A,267770.0,1.0,267770.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rigole, Chris",The Hudson Law Firm,577500.0,2.0,2282250.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Robbins, Jeremy",Mcmanamy Mccleod Heller,0.0,0.0,279900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Robbins, Jeremy",Mcmichael Gray,0.0,0.0,179900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Robbins, Jeremy",Taylor Sellers Law,0.0,0.0,147000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rose, Stephanie",Harlperin Lyman,0.0,0.0,522500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rose, Stephanie",Thompson Obrien Kemp Nasu,385000.0,1.0,2797000.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Roseberry, R. Todd",Fabian Associates,0.0,0.0,691500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Roseberry, R. Todd",Ganek,0.0,0.0,81250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Roseberry, R. Todd",Morris Manning Martin,0.0,0.0,838500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ross, Ryan",Fryer Law Firm,716000.0,2.0,716000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ross, Ryan",Ganek,0.0,0.0,420000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ross, Ryan",Lueder Larkin Hunter,0.0,0.0,348000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ross, Ryan",Mcmanamy Mccleod Heller,0.0,0.0,921900.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ross, Ryan",Mcmanay Ccleod Heller,0.0,0.0,480000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ross, Ryan",Susan Green Miller,239900.0,1.0,239900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",C Robin Wyatt,288000.0,1.0,288000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",Ganek,438750.0,1.0,1018350.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",Laird Associates,146250.0,1.0,146250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",Mcmanamy Mccleod Heller,0.0,0.0,279000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",Mcmichael Gray,0.0,0.0,324000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",Neel Robinson Stafford,315000.0,1.0,742843.8,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",Thomas Brown,0.0,0.0,436410.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Rossi, Marco",Weissman,0.0,0.0,305910.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"SCHANDEL, MARK",Law Office Of Kristen Miller P,0.0,0.0,1263400.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"SCHANDEL, MARK",Wasdin Closing Group,0.0,0.0,195000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Scannell, Paul",Campbell Brannon,0.0,0.0,799000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Scannell, Paul",Ganek,0.0,0.0,239900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Scannell, Paul",Mcmanamy Mccleod Heller,0.0,0.0,1734900.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sconyers, Ryan",Hodge Temple,0.0,0.0,260000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sconyers, Ryan",Mcmanamy Mccleod Heller,0.0,0.0,123875.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Searcy, Peter",Hodge Temple,578212.5,1.0,921712.5,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Searcy, Peter",Mcmanamy Mccleod Heller,0.0,0.0,115500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Searcy, Peter",Mcmichael Gray,0.0,0.0,196772.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Cook And James,0.0,0.0,283000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Craig Long,0.0,0.0,163855.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Edge Kimbell Law,0.0,0.0,111000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Harlperin Lyman,0.0,0.0,165000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Hodge Temple,1067212.5,2.0,3031662.5,6,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Mcmanamy Mccleod Heller,0.0,0.0,1537875.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Mcmichael And Gray,80000.0,1.0,80000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Mcmichael Gray,0.0,0.0,196772.5,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Morris Manning Martin,0.0,0.0,222500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Nelson Galbreath,0.0,0.0,142500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Okelley Sorohan,87500.0,1.0,87500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Okelly Sorohan Attorneys A,129000.0,1.0,129000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Seeby, Justin",Sherman Phalen,0.0,0.0,153500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Serulle, Zerina",Fryer Law Firm,0.0,0.0,118500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Serulle, Zerina",Mcmanamy Mccleod Heller,469250.0,2.0,777750.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Severcool, Vickie",Mcmanamy Mccleod Heller,973000.0,2.0,1836000.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Severcool, Vickie",Perrie Assoicates,0.0,0.0,250000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Severcool, Vickie",Thompson Obrien Kemp Nasu,0.0,0.0,415000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Campbell Brannon,650000.0,1.0,650000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Fryer Law Firm,0.0,0.0,958000.0,4,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Mahaffey Pickens Tucker,237114.0,1.0,237114.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Mcmanamy Mccleod Heller,0.0,0.0,650000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Neel Robinson Stafford,0.0,0.0,482900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Okelly Sorohan Attorneys A,0.0,0.0,197000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Parast Law,0.0,0.0,252000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",Smith Cavin Corbin,0.0,0.0,257000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sherwood, Adrienne",The Albertelli Firm,0.0,0.0,308000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Skeen, Ashley",Hodge Temple,0.0,0.0,320000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Smith, Lisa Marie",Ganek,0.0,0.0,1857000.0,5,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Smith, Lisa Marie",Law Office Of Kristen Miller P,0.0,0.0,375000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Smith, Monica",Law Office Of Kristen Miller P,192000.0,1.0,192000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Smith, Monica",Mcmanamy Mccleod Heller,296900.0,2.0,561800.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Smith, Monica",Mcmichael Gray,0.0,0.0,249900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Smith, Monica",Thomas Brown,0.0,0.0,287000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Spence, Amy",Campbell Brannon,340000.0,1.0,340000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Spence, Amy",Hartman Law,465000.0,1.0,465000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Spence, Amy",Mcmanamy Mccleod Heller,0.0,0.0,447000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Spence, Amy",Okelley Sorohan,370000.0,1.0,370000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Spencer, Lorelei",Mcmanamy Mccleod Heller,0.0,0.0,210000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sprayberry, Jimmy",Harris Law Title,0.0,0.0,1790000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Sprayberry, Jimmy",Mcmichael Gray,0.0,0.0,337000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"St George, Juli",Mclain Merritt,0.0,0.0,599900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"St George, Juli",Morris Manning Martin,203250.0,1.0,203250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"St George, Juli",Okelley Sorohan,0.0,0.0,66000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"St George, Juli",Razimondi Associates,0.0,0.0,755000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"St George, Juli",The Hudson Law Firm,198500.0,1.0,618500.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"St George, Juli",Weissman,0.0,0.0,192500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Strickland, Crystal",Serrano Mckinney Umpierre,0.0,0.0,107000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Jason",Mcmanamy Mccleod Heller,0.0,0.0,179500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Jason",The Hawes Law Firm,745000.0,1.0,745000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Jason",Weissman,0.0,0.0,369000.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Morgan",Campbell Brannon,320000.0,1.0,320000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Morgan",Law Office Of Kristen Miller P,0.0,0.0,361000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Morgan",Mclain Merritt,0.0,0.0,425000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Morgan",Pacific One Title,0.0,0.0,220000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Taylor, Morgan",Parkway Law Group,0.0,0.0,240000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Tran, Linda",Fricks Bohan,0.0,0.0,110250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Tran, Linda",Fryer Law Firm,0.0,0.0,159250.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Tran, Linda",Hodge Temple,252000.0,0.0,252000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Trimmer, Jeremy",Hodge Temple,0.0,0.0,222250.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Trimmer, Jeremy",Mclain Merritt,0.0,0.0,390111.4,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Trimmer, Jeremy",Perrie Assoicates,196000.0,1.0,196000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Trimmer, Jeremy",Saadat Law Dba Blue Ink Title,0.0,0.0,499500.0,2,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Trimmer, Jeremy",The Hudson Law Firm,0.0,0.0,276500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Trimmer, Jeremy",Thomas Brown,0.0,0.0,184016.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Tyler, Keelin",Weissman,0.0,0.0,192500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"WARREN, JEANNETTE",Law Office Of Kristen Miller P,189900.0,1.0,189900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"WARREN, JEANNETTE",Mcmanamy Mccleod Heller,154500.0,1.0,727000.0,3,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"WARREN, JEANNETTE",Mcmichael Gray,0.0,0.0,200900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"WARREN, JEANNETTE",Ohlson Medlock,327550.0,1.0,327550.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"WARREN, JEANNETTE",Taylor Sellers Law,285900.0,1.0,285900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ward, Brian",Perrie Assoicates,0.0,0.0,250000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Ward, Frederick",The Jules Law Group,0.0,0.0,176500.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Weston, Justin",Lueder Larkin Hunter,0.0,0.0,108000.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Weston, Justin",Okelley Sorohan,295000.0,1.0,295000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Wheeler, Laura",Hodge Temple,54075.0,0.0,54075.0,0,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Whittemore, Brittany",Ganek,0.0,0.0,375000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Wright, Brandy",The Hudson Law Firm,0.0,0.0,250000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Zimmermann, Kristin",Mcmanamy Mccleod Heller,249900.0,1.0,249900.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Zimmermann, Kristin",Perrie Assoicates,240000.0,1.0,240000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Zweben, Leslie",Mcmanamy Mccleod Heller,0.0,0.0,325000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Zweben, Leslie",Neel Robinson Stafford,0.0,0.0,703763.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
+T,"Zweben, Leslie",Smith Cavin Corbin,0.0,0.0,700000.0,1,"MC #: 226  Intown Atlanta, LLC",2020-07-02,KW Intown 062020 Core 12.pdf
