@@ -216,7 +216,13 @@ separator.grid(row=2, column=0, columnspan=2, sticky='we', pady=10)
 tk.Label(root, text="Select Date:").grid(row=3, column=0, padx=10, pady=5, sticky='w')
 sequence_var = tk.StringVar()
 sequence_dropdown = ttk.Combobox(root, textvariable=sequence_var)
-sequence_dropdown['values'] = sorted(list(get_sequences()), reverse=True)
+
+dates_sequence = sorted(list(get_sequences()), reverse=True)
+
+# Optional pairing Down
+dates_sequence = [date for date in dates_sequence if date in ['122023', '032024']]
+
+sequence_dropdown['values'] = dates_sequence
 sequence_dropdown.grid(row=3, column=1, padx=10, pady=5, sticky='we')
 sequence_dropdown.bind('<<ComboboxSelected>>', on_sequence_select)
 
