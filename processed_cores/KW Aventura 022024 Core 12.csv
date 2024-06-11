@@ -1,0 +1,52 @@
+Ven,Associate Name,Vendor Name,Closed Sales Volume MTD,Closed Sales Units MTD,Closed Sales Volume YTD,Closed Sales Units YTD,File Source,File Run,Processed From Path
+M,"Antoine, Alain",United Wholesale Mortgage,0.0,0.0,610000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Anzola, Jose Guillermo",Better Holdings,255000.0,1.0,255000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Baez, David Leonardo",Jp Morgan Chase Bank,335000.0,1.0,335000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Baez, David Leonardo",Paramount Residential Mortgage,0.0,0.0,430000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Baguet, Stephany C.",Crosscountry Mortgage,559000.0,1.0,559000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Baguet, Stephany C.",Loandepotcom,0.0,0.0,389000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Bowe, Theresa",Castle Mortgage,0.0,0.0,1400000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Brooks, Timothy",Paramount Residential Mortgage,620000.0,1.0,1117000.0,2,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Goicouria II, Rafael",Better Holdings,0.0,0.0,1133100.0,5,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Goicouria II, Rafael",Rcn Capital,0.0,0.0,304200.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Kotler, Jonathan",Angel Oak Funding Isaoa,605000.0,1.0,605000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Kotler, Jonathan",United Wholesale Mortgage,0.0,0.0,250000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Phanord, Bernard",Paramount Residential Mortgage,0.0,0.0,352000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Rosa, Lee D.",Better Holdings,0.0,0.0,125900.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+M,"Rosa, Lee D.",Rcn Capital,0.0,0.0,33800.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Ackerman, Shani",Harbor Title,121750.0,0.0,121750.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Antoine, Alain",Harbor Title,0.0,0.0,610000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Anzola, Jose Guillermo",Cooperative Title Agency,255000.0,1.0,255000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Baez, David Leonardo",Charles B Butman Pa,335000.0,1.0,335000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Baez, David Leonardo",Harbor Title,0.0,0.0,175000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Baez, David Leonardo",Weintraub Weintraub Pa,0.0,0.0,430000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Baguet, Stephany C.",Harbor Title,559000.0,1.0,948000.0,2,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Baguet, Stephany C.",North At Brickell,1092000.0,1.0,1092000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Bowe, Theresa",Harbor Title,0.0,0.0,1400000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Brooks, Timothy",Harbor Title,0.0,0.0,1287000.0,2,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Brooks, Timothy",Near North Title Group,2770000.0,2.0,2770000.0,2,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Citro, Yolande",Quaker Title And Escrow,1300000.0,1.0,1300000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Feig, Evan",Harbor Title,121750.0,0.0,121750.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Goicouria II, Rafael",Cooperative Title Agency,0.0,0.0,551700.0,2,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Goicouria II, Rafael",Harbor Title,121750.0,0.0,121750.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Goicouria II, Rafael",Independence Title,0.0,0.0,216000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Goicouria II, Rafael",Investors Title,0.0,0.0,229500.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Goicouria II, Rafael",Title Law Group Pllc,0.0,0.0,240300.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Goicouria II, Rafael",Zagury Scott Pa,0.0,0.0,199800.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Goldwire, Shanice",Title Alliance Professionals O,0.0,0.0,450000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Kotler, Jonathan",Old Republic National Title In,605000.0,1.0,855000.0,2,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Lemorin, Gina",All About Closing,0.0,0.0,309000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Matozzo, Dominick",Krikorian Ortega Leal Pa,205000.0,1.0,205000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Miller, Allison",Transstate Title Insurance Ag,0.0,0.0,8500000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Peinado, Drialys",Attorneys Key Title,0.0,0.0,620000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Phanord, Bernard",Assure America Title,0.0,0.0,352000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Randall, Lance",Law Offices Of Dane Stanish Pa,87000.0,1.0,87000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Renck, Quentin",Union Title Services,0.0,0.0,310000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Rosa, Lee D.",Cooperative Title Agency,0.0,0.0,61300.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Rosa, Lee D.",Harbor Title,121750.0,0.0,121750.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Rosa, Lee D.",Independence Title,0.0,0.0,24000.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Rosa, Lee D.",Investors Title,0.0,0.0,25500.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Rosa, Lee D.",Title Law Group Pllc,0.0,0.0,26700.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Rosa, Lee D.",Zagury Scott Pa,0.0,0.0,22200.0,0,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Viner, Leonora",Southeastern Title,465000.0,1.0,465000.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
+T,"Yeret, Chaya",The Lieberman Law Firm Pa,0.0,0.0,872999.0,1,MC #: 430  Keller Williams Elite Properties,2024-03-04,KW Aventura 022024 Core 12.pdf
