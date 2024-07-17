@@ -220,7 +220,7 @@ sequence_dropdown = ttk.Combobox(root, textvariable=sequence_var)
 dates_sequence = sorted(list(get_sequences()), reverse=True)
 
 # Optional pairing Down
-dates_sequence = [date for date in dates_sequence if date in ['122023', '032024']]
+dates_sequence = [date for date in dates_sequence if date in ['122023', '062024']]
 
 sequence_dropdown['values'] = dates_sequence
 sequence_dropdown.grid(row=3, column=1, padx=10, pady=5, sticky='we')
