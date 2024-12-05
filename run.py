@@ -190,7 +190,7 @@ root = tk.Tk()
 root.title("Core Explore Kit")
 
 # Set App Window
-root.geometry("600x330")
+root.geometry("600x400")
 
 # Add a window title
 title_font = font.Font(family="Helvetica", size=20, weight="bold")
@@ -220,7 +220,7 @@ sequence_dropdown = ttk.Combobox(root, textvariable=sequence_var)
 dates_sequence = sorted(list(get_sequences()), reverse=True)
 
 # Optional pairing Down
-dates_sequence = [date for date in dates_sequence if date in ['122023', '062024']]
+dates_sequence = [date for date in dates_sequence if date in ['122023', '082024']]
 
 sequence_dropdown['values'] = dates_sequence
 sequence_dropdown.grid(row=3, column=1, padx=10, pady=5, sticky='we')
